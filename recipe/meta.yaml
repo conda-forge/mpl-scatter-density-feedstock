@@ -1,6 +1,6 @@
 {% set name = "mpl-scatter-density" %}
-{% set version = "0.2" %}
-{% set sha256 = "c1356e2e610141569951ffa2ecde271504f4af321447e53b7bc59f2a8681b7ee" %}
+{% set version = "0.3" %}
+{% set sha256 = "98953172aea8c652570dcc6238bccd20afb69e6ae9594d4679c08e810b658651" %}
 
 package:
   name: {{ name|lower }}
@@ -20,13 +20,13 @@ requirements:
     - python
     - setuptools
     - numpy >=1.11
-    - matplotlib
-    - fast-histogram
+    - matplotlib >=1.5
+    - fast-histogram >=0.3
   run:
     - python
     - numpy >=1.11
-    - matplotlib
-    - fast-histogram
+    - matplotlib >=1.5
+    - fast-histogram >=0.3
 
 test:
   imports:
