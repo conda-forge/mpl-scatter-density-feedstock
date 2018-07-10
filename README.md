@@ -14,14 +14,15 @@ Matplotlib helpers to make density scatter plots
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/mpl-scatter-density-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/mpl-scatter-density-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/mpl-scatter-density-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/mpl-scatter-density-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/mpl-scatter-density-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/mpl-scatter-density-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/mpl-scatter-density-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/mpl-scatter-density-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mpl-scatter-density/badges/version.svg)](https://anaconda.org/conda-forge/mpl-scatter-density)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mpl-scatter-density/badges/downloads.svg)](https://anaconda.org/conda-forge/mpl-scatter-density)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-mpl--scatter--density-green.svg)](https://anaconda.org/conda-forge/mpl-scatter-density) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/mpl-scatter-density.svg)](https://anaconda.org/conda-forge/mpl-scatter-density) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/mpl-scatter-density.svg)](https://anaconda.org/conda-forge/mpl-scatter-density) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/mpl-scatter-density.svg)](https://anaconda.org/conda-forge/mpl-scatter-density) |
 
 Installing mpl-scatter-density
 ==============================
