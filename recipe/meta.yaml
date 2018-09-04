@@ -1,6 +1,6 @@
 {% set name = "mpl-scatter-density" %}
-{% set version = "0.3" %}
-{% set sha256 = "98953172aea8c652570dcc6238bccd20afb69e6ae9594d4679c08e810b658651" %}
+{% set version = "0.4" %}
+{% set sha256 = "0ddffbfa0e54fb9ea0032595ef868870a77ef2e87fb1fce935527026fb01099d" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
