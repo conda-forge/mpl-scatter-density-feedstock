@@ -1,6 +1,6 @@
 {% set name = "mpl-scatter-density" %}
-{% set version = "0.5" %}
-{% set sha256 = "cb91fff9793655a14fedcbb36ac47e3ee67ce29119c5354e7294e41acf085a32" %}
+{% set version = "0.6" %}
+{% set sha256 = "616d25a0bbbaf0f01295ab0b769180a99d09b1fdc51cfe5466a5785fe3fb5467" %}
 
 package:
   name: {{ name|lower }}
