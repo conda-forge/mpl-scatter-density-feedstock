@@ -5,7 +5,7 @@ Home: http://github.com/astrofrog/mpl-scatter-density
 
 Package license: BSD
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Matplotlib helpers to make density scatter plots
 
