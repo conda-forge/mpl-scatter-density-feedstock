@@ -15,18 +15,17 @@ build:
   noarch: python
   number: 0
   script: {{ PYTHON }} -m pip install . --no-deps -vv
-  skip: true  # [py27]
 
 requirements:
   host:
     - pip
-    - python
+    - python >=3.6
     - setuptools
     - numpy >=1.11
     - matplotlib-base >=3.0
     - fast-histogram >=0.3
   run:
-    - python
+    - python >=3.6
     - numpy >=1.11
     - matplotlib-base >=3.0
     - fast-histogram >=0.3
