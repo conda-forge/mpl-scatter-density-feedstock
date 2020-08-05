@@ -3,7 +3,7 @@ About mpl-scatter-density
 
 Home: http://github.com/astrofrog/mpl-scatter-density
 
-Package license: BSD
+Package license: BSD-2-Clause
 
 Feedstock license: BSD-3-Clause
 
