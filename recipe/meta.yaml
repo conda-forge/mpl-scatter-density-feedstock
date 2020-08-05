@@ -21,6 +21,7 @@ requirements:
     - pip
     - python >=3.6
     - setuptools
+    - setuptools_scm
     - numpy >=1.11
     - matplotlib-base >=3.0
     - fast-histogram >=0.3
