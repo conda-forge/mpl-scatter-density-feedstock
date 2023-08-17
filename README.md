@@ -3,17 +3,11 @@ About mpl-scatter-density-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mpl-scatter-density-feedstock/blob/main/LICENSE.txt)
 
-Home: http://github.com/astrofrog/mpl-scatter-density
+Home: https://github.com/astrofrog/mpl-scatter-density
 
 Package license: BSD-2-Clause
 
 Summary: Matplotlib helpers to make density scatter plots
-
-Development: http://github.com/astrofrog/mpl-scatter-density
-
-Documentation: http://github.com/astrofrog/mpl-scatter-density
-
-Matplotlib helpers to make density scatter plots
 
 Current build status
 ====================
