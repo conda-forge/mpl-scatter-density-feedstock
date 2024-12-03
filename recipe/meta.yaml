@@ -1,13 +1,13 @@
 {% set name = "mpl-scatter-density" %}
-{% set version = "0.7" %}
+{% set version = "0.8" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mpl-scatter-density-{{ version }}.tar.gz
-  sha256: cace750887916d3881b3a42ab5805769cc8d7eb70ef610938cbb57c967277620
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
+  sha256: 2dbabdcc3f98b04af49aa8ac3efa392d9a9fe175b125b31f9d5d4c337398d633
 
 build:
   noarch: python
